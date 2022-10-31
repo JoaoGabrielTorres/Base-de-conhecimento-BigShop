@@ -3,7 +3,7 @@
   "titleTemplate": "| Bluise",
   "welcomeText": "# B﻿ase de conhecimento BigShop.\n\nAqui você encontra tudo que precisa saber sobre a sua BigShop.\\\nA﻿prenda como funcionam e como utilizar os melhores recursos para sua loja virtual.",
   "logo": "/images/uploads/bigshop-logo3-333x111.png",
-  "icon": "/images/uploads/logo.png",
+  "icon": "/images/uploads/bigshop-logo3-333x111.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
